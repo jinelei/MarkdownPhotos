@@ -11,4 +11,12 @@
   
 ![nodejs -v](https://raw.githubusercontent.com/jinelei/markdowns/master/images/markdown/node-v.png)
 
-## 2. 安装react native
+## 2. 安装Yarn、React Native的命令行工具（react-native-cli）
+
+Yarn是Facebook提供的替代npm的工具，可以加速node模块的下载。React Native的命令行工具用于执行创建、初始化、更新项目、运行打包服务（packager）等任务。
+
+> ***npm install -g yarn react-native-cli***
+
+安装成功如下：
+
+![install yarn react-native-cli](https://raw.githubusercontent.com/jinelei/markdowns/master/images/markdown/yarn-install.png) 
