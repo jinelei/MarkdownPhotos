@@ -88,4 +88,5 @@ init命令默认会创建最新的版本，而目前最新需要下载boost库�
 ## 6. Troubleshooting
 
 - xcrun: error: unable to find utility "instruments", not a developer tool or in PATH
-> 
+>  打开XCode导入项目即可
+
