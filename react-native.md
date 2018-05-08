@@ -82,5 +82,5 @@ init命令默认会创建最新的版本，而目前最新需要下载boost库�
 ```
     react-native init ProjectDemo --verison 0.44.3
     cd ProjectDemo
-    react-native run-ios/run-android
+    react-native run-ios
 ```
