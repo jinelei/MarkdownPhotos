@@ -40,7 +40,7 @@ yarn config set disturl https://npm.taobao.org/dist --global
 > 环境变量很重要！要不项目跑不起来。
 
 *添加环境变量*
-> 1. 编辑 /etc/profile, ~/.basr_profile, ~/.bashrc（作用域不同，自己根据需要选择）
+> 1. 编辑 /etc/profile, ~/.basr_profile, ~/.bashrc（作用域不同, 自己根据需要选择）
 > > 例如： vim ~/.bashrc
 > 2. 载入环境变量： 通过source命令或者./
 > >例如： source ~/.bashrc
