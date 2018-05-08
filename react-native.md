@@ -17,7 +17,7 @@ Yarn是Facebook提供的替代npm的工具，可以加速node模块的下载。R
 
 ```npm install -g yarn react-native-cli```
 
-安装成功如下：
+成功安装如下：
 
 ![install yarn react-native-cli](https://raw.githubusercontent.com/jinelei/markdowns/master/images/markdown/yarn-install.png) 
 
@@ -42,7 +42,7 @@ yarn config set disturl https://npm.taobao.org/dist --global
 *添加环境变量*
 > 1. 编辑 /etc/profile, ~/.basr_profile, ~/.bashrc（作用域不同, 自己根据需要选择）
 > > 例如： vim ~/.bashrc
-> 2. 载入环境变量： 通过source命令或者./
+> 2. 加载环境变量： 通过source命令或者./
 > >例如： source ~/.bashrc
 > 3. 检查环境变量 通过echo命令或者env查看
 > >例如： echo $ANDROID_HOME
