@@ -84,3 +84,8 @@ init命令默认会创建最新的版本，而目前最新需要下载boost库�
     cd ProjectDemo
     react-native run-ios
 ```
+
+## 6. Troubleshooting
+
+- xcrun: error: unable to find utility "instruments", not a developer tool or in PATH
+> 
